@@ -1,0 +1,35 @@
+.app{
+  margin: 50px auto;
+  width: 90%;
+  border-radius: 25px;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 10px #454545;
+  position: relative;
+}
+
+.submit-btn{
+  margin-bottom: 20px;
+}
+
+.textarea{
+  width: 100%;
+  margin: 20px 20px;
+  padding: 0 20px;
+}
+
+.form{
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.accuray{
+  margin: 5px 0;
+  display: flex;
+  gap: 10px;
+}
